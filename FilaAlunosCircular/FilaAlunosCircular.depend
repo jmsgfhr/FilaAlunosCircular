@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1525016322 source:/home/jmsgfhr/Documentos/FilaAlunosCircular/main.c
+	"fila.h"
+
+1525780606 
+
+1525015858 /home/jmsgfhr/Documentos/FilaAlunosCircular/fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525015858 
+
+1525016011 source:/home/jmsgfhr/Documentos/FilaAlunosCircular/fila.c
+	"fila.h"
+
+1525379335 source:c:\users\thaua\downloads\filaalunoscircular\fila.c
+	"fila.h"
+
+1525378429 c:\users\thaua\downloads\filaalunoscircular\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1525378563 source:c:\users\thaua\downloads\filaalunoscircular\main.c
+	"fila.h"
+
+1525780632 source:e:\filaalunoscircular\fila.c
+	"fila.h"
+
+1525780606 e:\filaalunoscircular\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1525780606 source:e:\filaalunoscircular\main.c
+	"fila.h"
+
+1525770326 source:/home/jmsgfhr/Documentos/FilaAlunosCircular/fila.c
+	"fila.h"
+
+1525769806 /home/jmsgfhr/Documentos/FilaAlunosCircular/fila.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1525769806 source:/home/jmsgfhr/Documentos/FilaAlunosCircular/main.c
+	"fila.h"
+
